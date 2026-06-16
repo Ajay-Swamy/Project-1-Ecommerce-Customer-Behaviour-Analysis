@@ -1,7 +1,7 @@
 ## Dashboard Preview
 
-![Customer Behavior Dashboard](dashboard/dashboard.png)
-# Task 1: Customer Behavior Analysis
+![Customer Behavior Dashboard](DashBoard/dashboard1.png)
+# Customer Behavior Analysis
 
 ---
 
